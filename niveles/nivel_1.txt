@@ -1,0 +1,25 @@
+# Dimensiones del tablero (filas columnas)
+3 5
+
+# Patrón del tablero (0: vacío, 1: espacio a llenar)
+1 1 1 1 0
+1 1 1 1 1
+0 0 1 1 1
+
+# Número de piezas
+3
+
+# Pieza 1 (cuadrado 2x2)
+2 2
+1 1
+1 1
+
+# Pieza 2 (forma de L 2x3)
+2 3
+1 1 1
+1 0 0
+
+# Pieza 3 (forma de L pequeña 2x2)
+2 2
+1 0
+1 1
